@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://banner2.cleanpng.com/20180512/lqq/kisspng-computer-icons-encapsulated-postscript-clip-art-5af67d2556db60.7996591915261033333558.jpg" width="100px"/>
+  <img src="https://static.tildacdn.com/tild6237-3339-4963-b664-656562633766/beaverswork.gif" width="100px"/>
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,3 +23,20 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div align="center">
+  <img src="https://www.300feetout.com/wp-content/uploads/2018/07/300FeetOut_YourWebsiteIsAlive.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :ghost: About Me :
+
+Я начинающий веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: Прошел курсы от Яндекс.Практикум по веб-разработке.
+
+- :zap: В свободное время я решаю задачи и читаю технические статьи.
+
+- :purple_heart: Освоить новые фреймворки.
+
+- :mailbox::Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/-yandex.mail-yellow?style=flat&logo=Yandex.mail&logoColor=white)](Mr1Hiroshi@yandex.ru)
