@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandr-kotov&label=Profile%20views&color=0e75b6&style=flat" alt="alexandr-kotov" /> </p>
 
-- 🌱В настоящее время я закончил курсы **Яндекс.Практикум аеб-разработчик**
+- 🌱В настоящее время я закончил курсы **Яндекс.Практикум веб-разработчик**
 
-- 👨‍💻 Все мои проекты доступны по адресу [https://github.com/Alexandr-Kotov?tab=repositories](https://github.com/Alexandr-Kotov?tab=repositories)
+- 👨‍💻 Все мои проекты доступны по ссылке [https://github.com/Alexandr-Kotov?tab=repositories](https://github.com/Alexandr-Kotov?tab=repositories)
 
 - 📫 Как связаться со мной **Mr1Hiroshi@yandex.ru**
 
