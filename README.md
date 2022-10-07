@@ -31,7 +31,7 @@
 
 ### :ghost: About Me :
 
-Я начинающий веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я начинающий веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - :telescope: Прошел курсы от Яндекс.Практикум по веб-разработке.
 
@@ -39,4 +39,4 @@
 
 - :purple_heart: Освоить новые фреймворки.
 
-- :mailbox::Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/-yandex.mail-yellow?style=flat&logo=Yandex.mail&logoColor=white)](Mr1Hiroshi@yandex.ru)
+- :mailbox::Как связаться со мной: Mr1Hiroshi@yandex.ru.
